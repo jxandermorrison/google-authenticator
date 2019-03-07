@@ -1,0 +1,8 @@
+bin/*
+include/*
+lib/*
+pip-selfcheck.json
+pyvenv.cfg
+.DS_Store
+client_secret.json
+__pycache__/
